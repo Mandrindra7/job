@@ -1,5 +1,4 @@
-# youtubeclone
+# youtube clone
 cours
 react
-node
-mongodb
+
